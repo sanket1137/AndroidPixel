@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pixel Media Player</string>
+    <string name="welcome_message">Welcome to Pixel Media Player</string>
+    <string name="video_list_title">Video List</string>
+    <string name="download_video">Download Video</string>
+    <string name="play_video">Play Video</string>
+    <string name="schedule_video">Schedule Video</string>
+    <string name="no_videos_available">No videos available</string>
+    <string name="video_download_complete">Video download complete!</string>
+    <string name="video_playback_error">Error playing video</string>
+    <string name="schedule_set_success">Schedule set successfully</string>
+    <string name="schedule_set_error">Error setting schedule</string>
+</resources>
